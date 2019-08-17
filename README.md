@@ -52,7 +52,7 @@ Project Link: [https://github.com/lazuardyk/sipema](https://github.com/lazuardyk
 [issues-shield]: https://img.shields.io/github/issues/lazuardyk/sipema.svg?style=flat-square
 [issues-url]: https://github.com/lazuardyk/sipema/issues
 [license-shield]: https://img.shields.io/github/license/lazuardyk/sipema.svg?style=flat-square
-[license-url]: https://github.com/lazuardyk/sipema/blob/master/LICENSE.txt
+[license-url]: https://github.com/lazuardyk/sipema/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lazuardyk
 [product-screenshot]: screenshot.png
