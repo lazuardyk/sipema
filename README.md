@@ -34,7 +34,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@lazuardyk](https://twitter.com/lazuardyk) - lazdevs@gmail.com
+Lazuardy Khatulistiwa - [@lazuardyk](https://twitter.com/lazuardyk) - lazdevs@gmail.com
 
 Project Link: [https://github.com/lazuardyk/sipema](https://github.com/lazuardyk/sipema)
 

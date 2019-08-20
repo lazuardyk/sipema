@@ -42,10 +42,9 @@
           <p class ="text-center" style="font-size: 25px">Jumlah Data</p>
           <hr>
           <p>Jumlah data makanan saat ini: {{ $jumlah }}</p>
-          <div class="fontsize">
-          Jika ingin menambahkan makanan kedalam data,<br>
-          silahkan isi data di:
-          </div>
+          <button type="button" class="btn btn-primary">Tambah Data</button>
+          <br>
+          <br>
         </div>
         <div class ="col-md-4">
             <p class ="text-center" style="font-size: 25px">Cari Makanan 🍔🍟🍕</p>
