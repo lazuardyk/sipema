@@ -24,7 +24,7 @@
         <div class="navbar-nav">
         <a class="nav-item nav-link" href="/"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
         <a class="nav-item nav-link active" href="/about"><i class="fas fa-info"></i> Tentang</a>
-        <a class="nav-item nav-link" href="/tambah"><i class="fas fa-plus-circle"></i> Tambah Data</a>
+        <a class="nav-item nav-link" href="/add"><i class="fas fa-plus-circle"></i> Tambah Data</a>
         </div>
     </div>
     </nav>

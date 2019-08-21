@@ -20,3 +20,6 @@ Route::post('/', 'PagesController@search');
 Route::get('/about', function() {
     return view('about');
 });
+Route::get('/add', function() {
+    return view('add');
+});

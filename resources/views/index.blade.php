@@ -23,7 +23,7 @@
         <div class="navbar-nav">
         <a class="nav-item nav-link active" href="/"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
         <a class="nav-item nav-link" href="/about"><i class="fas fa-info"></i> Tentang</a>
-        <a class="nav-item nav-link" href="/tambah"><i class="fas fa-plus-circle"></i> Tambah Data</a>
+        <a class="nav-item nav-link" href="/add"><i class="fas fa-plus-circle"></i> Tambah Data</a>
         </div>
     </div>
     </nav>
@@ -42,7 +42,7 @@
           <p class ="text-center" style="font-size: 25px">Jumlah Data</p>
           <hr>
           <p>Jumlah data makanan saat ini: {{ $jumlah }}</p>
-          <button type="button" class="btn btn-primary">Tambah Data</button>
+          <button type="button" class="btn btn-primary"><a href="/add">Tambah Data</button></a>
           <br>
           <br>
         </div>
