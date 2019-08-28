@@ -24,15 +24,17 @@
         <div class="navbar-nav">
         <a class="nav-item nav-link" href="/"><i class="fas fa-home"></i> Home <span class="sr-only">(current)</span></a>
         <a class="nav-item nav-link" href="/about"><i class="fas fa-info"></i> Tentang</a>
-        <a class="nav-item nav-link active" href="/tambah"><i class="fas fa-plus-circle"></i> Tambah Data</a>
+        <a class="nav-item nav-link active" href="/add"><i class="fas fa-plus-circle"></i> Tambah Data</a>
         </div>
     </div>
     </nav>
     <div class ="row">
-        <div class="col-md-6 text-center mx-5">
+        <div class="col-md-6 mx-5">
+            <div class="text-center">
             <p style="font-size: 40px;">Tambah Makanan</p>
             <hr>
             <p style="font-size: 20px;">Buat permintaan untuk menambahkan makanan! silahkan isi data berikut:</p>
+            </div>
         <form>
             <div class="form-group">
                 <label for="nama_makanan">Nama makanan</label>

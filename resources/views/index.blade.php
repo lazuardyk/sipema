@@ -42,7 +42,7 @@
           <p class ="text-center" style="font-size: 25px">Jumlah Data</p>
           <hr>
           <p>Jumlah data makanan saat ini: {{ $jumlah }}</p>
-          <button type="button" class="btn btn-primary"><a href="/add">Tambah Data</button></a>
+          <button type="button" class="btn btn-primary"><a style="color:white;" href="/add">Tambah Data</a></button>
           <br>
           <br>
         </div>
