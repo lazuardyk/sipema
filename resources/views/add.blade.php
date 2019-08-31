@@ -37,22 +37,22 @@
             </div>
         <form>
             <div class="form-group">
-                <label for="nama_makanan">Nama makanan</label>
+                <label for="nama_makanan">Nama makanan:</label>
                 <input type="text" class="form-control" id="nama_makanan" name="nama_makanan" placeholder="sate taichan">
             </div>
 
             <div class="form-group">
-                <label for="nama_kantin">Nama kantin</label>
+                <label for="nama_kantin">Nama kantin:</label>
                 <input type="text" class="form-control" id="nama_kantin" name="nama_kantin" placeholder="kantin blok M">
             </div>
 
             <div class="form-group">
-                <label for="harga">Harga</label>
+                <label for="harga">Harga:</label>
                 <input type="number" class="form-control" id="harga" name="harga" placeholder="10000">
             </div>
 
             <div class="form-group">
-                <label for="exampleFormControlFile1">Bukti menu</label>
+                <label for="exampleFormControlFile1">Bukti menu (<b>untuk validasi bahwa makanan memang benar ada</b>):</label>
                 <input type="file" class="form-control-file" id="exampleFormControlFile1">
             </div>
 
